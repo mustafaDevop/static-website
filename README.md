@@ -7,6 +7,7 @@ Requirement: Basic understanding of AWS
 Overview: Create an s3 bucket. Upload your files to the s3 bucket. Cloud front will reach out to Amazon s3 bucket to get the website content to serve the user.
 
 Architecture
+
 <img width="502" alt="S3 BUCKET DRAW IO" src="https://user-images.githubusercontent.com/94189602/206519400-2f6df679-21a1-4a48-97b5-5ff25a4055dd.PNG">
 
                                          
