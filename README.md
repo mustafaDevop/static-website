@@ -88,7 +88,8 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
 ![save_policy](https://user-images.githubusercontent.com/94189602/206506811-3f786bc6-0f04-4a5f-8448-54e6f77b71fc.PNG)
 
 •	Now go to properties and enable static website hosting, and don’t forget, index document and be the name of the html file you uploaded the main page. Mine is learn.html
-           ![step_static_web](https://user-images.githubusercontent.com/94189602/206507135-e7a4f280-7d91-4a9e-9754-f43c09ec86da.PNG)
+           ![STATIC_CONFIGURE](https://user-images.githubusercontent.com/94189602/206528020-310f3821-3425-4c77-b471-27cfd8926f0f.PNG)
+
 
 
 •	Copy the endpoint of the bucket somewhere cause we using in the cloud front.
