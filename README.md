@@ -14,7 +14,7 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
 •	Choose a region (I was using us-west2(Oregon)
 •	NOTICE: REGION is very IMPORTANT  cause what is created at London will not able available in Oregon
 
-                           ![region_dashboard](https://user-images.githubusercontent.com/94189602/206495853-5a16196d-0bb3-4ecc-a079-1a7f9a58d566.PNG)
+                           
 
 •	Go your search bar at the right-hand corner
 
