@@ -95,6 +95,7 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
 ![enabled_hosting](https://user-images.githubusercontent.com/94189602/206507241-a644ec62-e0a6-4dc6-a61d-40fdd0b65bbf.PNG)
 
                          
+STEP2:
 
 •	Go to the search button and search for cloud front
 
