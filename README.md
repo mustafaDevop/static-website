@@ -1,4 +1,5 @@
-AWS-static-website
+                                                  AWS-static-website
+
 •	Deploy Static website to AWS with S3 and  Cloud Front.
 
 
