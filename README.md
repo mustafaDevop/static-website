@@ -11,7 +11,8 @@ Architecture
                                          
     LET’S GO!!
 STEP 1.  LOGIN INTO YOUR AWS CONSOLE
-•	Choose a region (I was using us-west2(Oregon)
+•	Choose a region (I was using us-west2(Oregon).
+
 •	NOTICE: REGION is very IMPORTANT  cause what is created at London will not able available in Oregon
 ![region_dashboard](https://user-images.githubusercontent.com/94189602/206501973-22ed57ee-0116-4aaf-809b-2ab1b596b7ac.PNG)
 
@@ -25,7 +26,7 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
 
  ![s3_dashboard](https://user-images.githubusercontent.com/94189602/206503837-c158f4fe-a27f-4d24-bc8e-3d2b88f9f334.PNG)
      
-•	Create bucket (in put bucket name and the region you want the bucket to be and be very careful of the name of the bucket NO symbols and just name.
+•	Create bucket (input bucket name and the region you want the bucket to be and be very careful of the name of the bucket NO symbols and just name).
 •	If it going to be public bucket find a unique name, but right here we will be creating a public bucket
 
 ![bucket_name](https://user-images.githubusercontent.com/94189602/206504222-73cf912b-ff63-43e4-80f9-dc1a4c093e24.PNG)
