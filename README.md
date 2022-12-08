@@ -38,17 +38,18 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
 
                                                     
 •	Create button
+
 ![create_button](https://user-images.githubusercontent.com/94189602/206505207-a53e7fa3-c9d8-4ed7-acf8-322d8465535d.PNG)
 
                                                                       
 •	Successfully created
 
-     ![successful_created](https://user-images.githubusercontent.com/94189602/206505259-ec892a6a-a393-470d-81a0-c719a5025422.PNG)
+  ![successful_created](https://user-images.githubusercontent.com/94189602/206505259-ec892a6a-a393-470d-81a0-c719a5025422.PNG)
                           
 
 •	Now go back the dashboard and  click on your bucket name mine is “project102”
 
-                 ![click_project_name](https://user-images.githubusercontent.com/94189602/206505484-a1f54688-1a0c-4e93-ae83-e21d9bc9bec5.PNG)
+   ![click_project_name](https://user-images.githubusercontent.com/94189602/206505484-a1f54688-1a0c-4e93-ae83-e21d9bc9bec5.PNG)
                
 
 •	Upload a file or folder of your choice and its two ways of uploading either by drag and drop or by browsing. Now click upload 
@@ -61,7 +62,7 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
 
 •	File added
 
-           ![file_added](https://user-images.githubusercontent.com/94189602/206505931-2c316d0f-f35f-4868-97be-e62564a6b0ad.PNG)
+   ![file_added](https://user-images.githubusercontent.com/94189602/206505931-2c316d0f-f35f-4868-97be-e62564a6b0ad.PNG)
            
 
 •	Upload file
@@ -75,7 +76,7 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
 
 •	Bucket policy. If bucket policy is empty then type in the code.
 
-                      ![fill_bucket_policy](https://user-images.githubusercontent.com/94189602/206506688-9fb0b76d-1376-450d-a136-daae721c1dfa.PNG)
+ ![fill_bucket_policy](https://user-images.githubusercontent.com/94189602/206506688-9fb0b76d-1376-450d-a136-daae721c1dfa.PNG)
     
 
 •	Save it
