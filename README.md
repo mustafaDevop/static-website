@@ -23,8 +23,7 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
                                  
 •	Click on s3 bucket and you will in the default page  
 
-
-                       ![s3_dashboard](https://user-images.githubusercontent.com/94189602/206503837-c158f4fe-a27f-4d24-bc8e-3d2b88f9f334.PNG)
+ ![s3_dashboard](https://user-images.githubusercontent.com/94189602/206503837-c158f4fe-a27f-4d24-bc8e-3d2b88f9f334.PNG)
      
 •	Create bucket (in put bucket name and the region you want the bucket to be and be very careful of the name of the bucket NO symbols and just name.
 •	If it going to be public bucket find a unique name, but right here we will be creating a public bucket
