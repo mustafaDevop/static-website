@@ -27,6 +27,7 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
  ![s3_dashboard](https://user-images.githubusercontent.com/94189602/206503837-c158f4fe-a27f-4d24-bc8e-3d2b88f9f334.PNG)
      
 •	Create bucket (input bucket name and the region you want the bucket to be and be very careful of the name of the bucket NO symbols and just name).
+
 •	If it going to be public bucket find a unique name, but right here we will be creating a public bucket
 
 ![bucket_name](https://user-images.githubusercontent.com/94189602/206504222-73cf912b-ff63-43e4-80f9-dc1a4c093e24.PNG)
@@ -120,11 +121,17 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
                     
 
 •	Copy the domain name paste it in your browser you going to get a result
+
 •	And copy the end point, paste it in the browser you going to get your result 
+
 •	Copy and paste the URL in the file 
+
 •	Here is the result
+
 My endpoint http://project102.s3-website-us-west-2.amazonaws.com
+
 Here is my domain d2t093g3jc6k5n.cloudfront.net
+
 Access it while it last.
                  
   DOMAIN RESULT
