@@ -125,7 +125,10 @@ STEP 1.  LOGIN INTO YOUR AWS CONSOLE
 My endpoint http://project102.s3-website-us-west-2.amazonaws.com
 Here is my domain d2t093g3jc6k5n.cloudfront.net
 Access it while it last.
+                 
+                 DOMAIN RESULT
     ![result1](https://user-images.githubusercontent.com/94189602/206508182-707e16ed-e62a-463e-b30e-07d4d280fac7.PNG)
-
-        ![result2](https://user-images.githubusercontent.com/94189602/206508243-bae7b1d9-39a7-408b-9bab-3fa6f2dfd5ff.PNG)
+      
+                     ENDPOINT RESULT 
+       ![result2](https://user-images.githubusercontent.com/94189602/206508243-bae7b1d9-39a7-408b-9bab-3fa6f2dfd5ff.PNG)
 
