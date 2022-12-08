@@ -13,8 +13,12 @@ Architecture
 
                                          
     LET’S GO!!
-STEP 1.  LOGIN INTO YOUR AWS CONSOLE
+STEP 1:
+
+.  LOGIN INTO YOUR AWS CONSOLE
+
 •	Choose a region (I was using us-west2(Oregon).
+
 
 •	NOTICE: REGION is very IMPORTANT  cause what is created at London will not able available in Oregon
 ![region_dashboard](https://user-images.githubusercontent.com/94189602/206501973-22ed57ee-0116-4aaf-809b-2ab1b596b7ac.PNG)
